@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendMessageApp</string>
+    <string name="receiver">Παραλήπτης</string>
+    <string name="subject">Θέμα</string>
+    <string name="message">Μήνυμα</string>
+    <string name="send">Αποστολή</string>
+</resources>
